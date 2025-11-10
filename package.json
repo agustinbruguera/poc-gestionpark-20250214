@@ -1,0 +1,26 @@
+{
+  "name": "gestionpark-poc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "antd": "^5.18.4",
+    "dayjs": "^1.11.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/react-router-dom": "^5.3.3",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  },
+  "packageManager": "yarn@1.22.22"
+}
